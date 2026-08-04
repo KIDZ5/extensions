@@ -155,6 +155,27 @@
         ]
       },
       {
+        "name": "1668manga",
+        "packageName": "eu.kanade.tachiyomi.extension.th.onesixsixeightmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/apk/tachiyomi-th.onesixsixeightmanga-v1.4.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/icon/eu.kanade.tachiyomi.extension.th.onesixsixeightmanga.png",
+          "jarUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/jar/tachiyomi-th.onesixsixeightmanga-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3511888750873871322",
+            "name": "1668manga",
+            "language": "th",
+            "homeUrl": "https://1668manga.com"
+          }
+        ]
+      },
+      {
         "name": "Up-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.upmanga",
         "resources": {
