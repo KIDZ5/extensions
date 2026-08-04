@@ -8,6 +8,27 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "BullyManga",
+        "packageName": "eu.kanade.tachiyomi.extension.th.bullymanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/apk/tachiyomi-th.bullymanga-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/icon/eu.kanade.tachiyomi.extension.th.bullymanga.png",
+          "jarUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/jar/tachiyomi-th.bullymanga-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3269479652546118956",
+            "name": "BullyManga",
+            "language": "th",
+            "homeUrl": "https://bully-manga.com"
+          }
+        ]
+      },
+      {
         "name": "ChibiManga",
         "packageName": "eu.kanade.tachiyomi.extension.th.chibimanga",
         "resources": {
