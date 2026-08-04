@@ -50,6 +50,27 @@
         ]
       },
       {
+        "name": "Manga-Lc",
+        "packageName": "eu.kanade.tachiyomi.extension.th.mangalc",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/apk/tachiyomi-th.mangalc-v1.4.53.apk",
+          "iconUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/icon/eu.kanade.tachiyomi.extension.th.mangalc.png",
+          "jarUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/jar/tachiyomi-th.mangalc-v1.4.53.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5607835948857138011",
+            "name": "Manga-Lc",
+            "language": "th",
+            "homeUrl": "https://manga-lc.net"
+          }
+        ]
+      },
+      {
         "name": "NanoManga",
         "packageName": "eu.kanade.tachiyomi.extension.th.nanomanga",
         "resources": {
