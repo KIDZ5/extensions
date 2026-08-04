@@ -1,7 +1,8 @@
 {
-  "index_v2": "https://github.com/KIDZ5/extensions/raw/repo/index.pb",
-  "meta": {
-    "name": "KIDz",
-    "website": "https://github.com/KIDZ5/extensions"
-  }
+    "index_v2":  "https://github.com/KIDZ5/extensions/raw/repo/index.pb",
+    "meta":  {
+                 "name":  "KIDz",
+                 "website":  "https://github.com/KIDZ5/extensions",
+                 "signingKeyFingerprint":  "0c924453fb281ec29f6d8d1c9ae1611ebfd11b1678bd2074b34bc310a9f6dc5a"
+             }
 }
