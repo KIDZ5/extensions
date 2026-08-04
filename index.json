@@ -1,0 +1,33 @@
+{
+  "name": "KIDz Extensions",
+  "badgeLabel": "KIDz",
+  "signingKey": "0c924453fb281ec29f6d8d1c9ae1611ebfd11b1678bd2074b34bc310a9f6dc5a",
+  "contact": {
+    "website": "https://github.com/KIDZ5/extensions"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Up-Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.th.upmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/apk/tachiyomi-th.upmanga-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/icon/eu.kanade.tachiyomi.extension.th.upmanga.png",
+          "jarUrl": "https://raw.githubusercontent.com/KIDZ5/extensions/repo/jar/tachiyomi-th.upmanga-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8621253824834634233",
+            "name": "Up-Manga",
+            "language": "th",
+            "homeUrl": "https://www.up-manga.com"
+          }
+        ]
+      }
+    ]
+  }
+}
